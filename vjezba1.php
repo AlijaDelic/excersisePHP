@@ -1,5 +1,5 @@
 <?php
-$car_position_x =   0;
+$car_position_x =   2;
 $finish_point   =   4;
 
 $car_position_x++;
